@@ -1,0 +1,13 @@
+{
+    "name": "pc/examer",
+    "description": "examer project",
+    "type": "project",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Pouya Rezvani",
+            "email": "thesirpr@gmail.com"
+        }
+    ],
+    "require": {}
+}

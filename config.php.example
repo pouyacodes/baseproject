@@ -1,0 +1,16 @@
+<?php
+
+return [
+	'app' => [
+		'url' => 'http://localhost',
+		'timezone' => 'Asia/Tehran',
+		'key' => ''
+	],
+	'db' => [
+		'dbConnection' => 'mysql',
+		'dbHost' => 'localhost',
+		'dbPort' => '3306',
+		'dbUser' => 'root',
+		'dbPass' => ''
+	]
+];
