@@ -1,2 +1,2 @@
 # BaseProject
-Basic thing to run a php simple php project with Composer.
+Basic things to run a php simple php project with Composer.
